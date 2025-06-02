@@ -4,13 +4,13 @@ A React-based anime listing web app inspired by HiAnime Website. It fetches top 
 
 ## 📸 Screenshots
 
-![Home Page](./screenshots/home.png)
+![Home Page](./src//screenshots/home.png)
 *Home Page showing top-ranked anime.*
 
-![Search Results](./screenshots/search.png)
+![Search Results](./src/screenshots/search.png)
 *Search results for an anime.*
 
-![Anime Details](./screenshots/details.png)
+![Anime Details](./src/screenshots/details.png)
 *Detailed view of a selected anime.*
 
 > You can add screenshots in a folder named `/screenshots` in the root of your project.
